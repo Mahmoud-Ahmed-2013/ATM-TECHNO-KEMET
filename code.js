@@ -927,7 +927,7 @@ onEvent("سوال2", "click", function( ) {
 onEvent("حسنا1", "click", function( ) {
    playSound("assets/category_app/app_button_4.mp3", false);
   setScreen("Bankingservices");
-      stopSound("assets/ايداااااااااااااااااااااااعشسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسس.mp3");
+      stopSound("assets/1234.mp3");
 
 });
 onEvent("الغاء", "click", function( ) {
@@ -1293,7 +1293,7 @@ onEvent("image4", "click", function( ) {
   
 });
 onEvent("image31", "click", function( ) {
-  playSound("assets/ايداااااااااااااااااااااااعشسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسسس.mp3", false);
+  playSound("assets/1234.mp3", false);
   
 });
 onEvent("image32", "click", function( ) {
